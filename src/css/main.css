@@ -5,7 +5,7 @@
 }
 
 .header {
-    background-color: rgb(131, 158, 247);
+    background-color: rgb(230, 32, 32);
     display: flex;
     justify-content: space-between;
     padding: 1rem;
@@ -23,6 +23,13 @@
 }
 
 .nav-link {
-    color :red;
+    color :rgb(255, 255, 255);
     text-decoration: none;
+    font-size: 120%;
+}
+
+.products-container {
+    min-height: 30vh;
+    display: grid;
+    place-items: center;
 }

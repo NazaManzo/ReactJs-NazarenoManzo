@@ -5,7 +5,7 @@ import { Carrito } from './Carrito';
 export const Header = () => {
   return (
     <header className='header'>
-        <h1>Tienda</h1>
+        <h1>Demik</h1>
         <NavBar />
         <Carrito />
     </header>

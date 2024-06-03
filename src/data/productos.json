@@ -1,0 +1,113 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecanico",
+        "precio": 39.999,
+        "imagen": "./src/assets/img/Teclado2.jpg",
+        "descripcion": "Teclado 60% con switches rojos.",
+        "categoria": {
+            "id": "perifericos",
+            "nombre": "Perifericos"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse",
+        "precio": 29.999,
+        "imagen": "./src/assets/img/Mouse2.jpg",
+        "descripcion": "Mouse liviano con el mejor sensor.",
+        "categoria": {
+            "id": "perifericos",
+            "nombre": "Perifericos"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor",
+        "precio": 69.999,
+        "imagen": "./src/assets/img/Monitor2.jpg",
+        "descripcion": "Monitor 120hz de 24 pulgadas con pantalla OLED.",
+        "categoria": {
+            "id": "tecnologia",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Auriculares Bluetooth",
+        "precio": 55.999,
+        "imagen": "./src/assets/img/Auris2.jpg",
+        "descripcion": "Auriculares inalámbricos con sonido de alta calidad y batería de larga duración.",
+        "categoria": {
+            "id": "perifericos",
+            "nombre": "Perifericos"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj Inteligente",
+        "precio": 47.999,
+        "imagen": "./src/assets/img/reloj2.jpg",
+        "descripcion": "Reloj con monitoreo de salud y larga duracion de bateria.",
+        "categoria": {
+            "id": "tecnologia",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Disco Mecanico",
+        "precio": 54.999,
+        "imagen": "./src/assets/img/Disco2.jpg",
+        "descripcion": "Disco mecanico con 500mb de volecidad de lectura y 2tb de almacenamiento.",
+        "categoria": {
+            "id": "tecnologia",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Smartphone",
+        "precio": 125.000,
+        "imagen": "./src/assets/img/Celu2.jpg",
+        "descripcion": "Celular con 128gb de almacenamiento y pantalla de alta calidad.",
+        "categoria": {
+            "id": "tecnologia",
+            "nombre": "Perifericos"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Cargador Portatil",
+        "precio": 15.999,
+        "imagen": "./src/assets/img/Cargador-portatil2.jpg",
+        "descripcion": "Cargador rápido con capacidad de hasta 3 cargas.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Smart TV",
+        "precio": 120.999,
+        "imagen": "./src/assets/img/TV2.jpg",
+        "descripcion": "Smart TV de 55 pulgadas con pantalla OLED.",
+        "categoria": {
+            "id": "tecnologia",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Pad",
+        "precio": 19.999,
+        "imagen": "./src/assets/img/Pad2.jpg",
+        "descripcion": "Pad antideslizante con una longitud de 90 centimetros.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    }
+]

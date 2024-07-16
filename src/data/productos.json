@@ -4,7 +4,7 @@
         "id": 1,
         "nombre": "Teclado Mecanico",
         "precio": 300,
-        "imagen": "./public/imagen/Teclado2.jpg",
+        "imagen": "./public/img/Teclado2.jpg",
         "descripcion": "Teclado 60% con switches rojos.",
         "categoria": {
             "id": "perifericos",
@@ -15,7 +15,7 @@
         "id": 2,
         "nombre": "Mouse",
         "precio": 125,
-        "imagen": "./public/imagen/Mouse2.jpg",
+        "imagen": "./public/img/Mouse2.jpg",
         "descripcion": "Mouse liviano con el mejor sensor.",
         "categoria": {
             "id": "perifericos",
@@ -26,7 +26,7 @@
         "id": 3,
         "nombre": "Monitor",
         "precio": 350,
-        "imagen": "./public/imagen/Monitor2.jpg",
+        "imagen": "./public/img/Monitor2.jpg",
         "descripcion": "Monitor 120hz de 24 pulgadas con pantalla OLED.",
         "categoria": {
             "id": "tecnologia",
@@ -37,7 +37,7 @@
         "id": 4,
         "nombre": "Auriculares Bluetooth",
         "precio": 250,
-        "imagen": "./public/imagen/Auris2.jpg",
+        "imagen": "./public/img/Auris2.jpg",
         "descripcion": "Auriculares inalámbricos con sonido de alta calidad y batería de larga duración.",
         "categoria": {
             "id": "perifericos",
@@ -48,7 +48,7 @@
         "id": 5,
         "nombre": "Reloj Inteligente",
         "precio": 170,
-        "imagen": "./public/imagen/reloj2.jpg",
+        "imagen": "./public/img/reloj2.jpg",
         "descripcion": "Reloj con monitoreo de salud y larga duracion de bateria.",
         "categoria": {
             "id": "tecnologia",
@@ -59,7 +59,7 @@
         "id": 6,
         "nombre": "Disco Mecanico",
         "precio": 50,
-        "imagen": "./public/imagen/Disco2.jpg",
+        "imagen": "./public/img/Disco2.jpg",
         "descripcion": "Disco mecanico con 500mb de volecidad de lectura y 2tb de almacenamiento.",
         "categoria": {
             "id": "tecnologia",
@@ -70,7 +70,7 @@
         "id": 7,
         "nombre": "Smartphone",
         "precio": 850,
-        "imagen": "./public/imagen/Celu2.jpg",
+        "imagen": "./public/img/Celu2.jpg",
         "descripcion": "Celular con 128gb de almacenamiento y pantalla de alta calidad.",
         "categoria": {
             "id": "tecnologia",
@@ -81,7 +81,7 @@
         "id": 8,
         "nombre": "Cargador Portatil",
         "precio": 45,
-        "imagen": "./public/imagen/Cargador-portatil2.jpg",
+        "imagen": "./public/img/Cargador-portatil2.jpg",
         "descripcion": "Cargador rápido con capacidad de hasta 3 cargas.",
         "categoria": {
             "id": "accesorios",
@@ -92,7 +92,7 @@
         "id": 9,
         "nombre": "Smart TV",
         "precio": 700,
-        "imagen": "./public/imagen/TV2.jpg",
+        "imagen": "./public/img/TV2.jpg",
         "descripcion": "Smart TV de 55 pulgadas con pantalla OLED.",
         "categoria": {
             "id": "tecnologia",
@@ -103,7 +103,7 @@
         "id": 10,
         "nombre": "Pad",
         "precio": 35,
-        "imagen": "./public/imagen/Pad2.jpg",
+        "imagen": "./public/img/Pad2.jpg",
         "descripcion": "Pad antideslizante con una longitud de 90 centimetros.",
         "categoria": {
             "id": "accesorios",
